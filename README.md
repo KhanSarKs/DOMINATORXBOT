@@ -38,12 +38,11 @@
 -----------
 
 
-
 -----------
 
-- <a href="https://github.com/dominator454/DOMINATORXBOT/network/members"><img src="https://img.shields.io/github/forks/dominator454/DOMINATORXBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+- <a href="https://github.com/KhanSarKs/DOMINATORXBOT/network/members"><img src="https://img.shields.io/github/forks/KhanSarKs/DOMINATORXBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
-- <a href="https://github.com/dominator454/DOMINATORXBOT/stargazers"><img src="https://img.shields.io/github/stars/dominator454/DOMINATORXBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/dominator454/DOMINATORXBOT"></a><p align="left"><a href="https://github.com/dominator454/DOMINATORXBOT?"></a>
+- <a href="https://github.com/KhanSarKs/DOMINATORXBOT/stargazers"><img src="https://img.shields.io/github/stars/KhanSarKs/DOMINATORXBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/KhanSarKs/DOMINATORXBOT"></a><p align="left"><a href="https://github.com/KhanSarKs/DOMINATORXBOT?"></a>
 
 -----------
 
@@ -133,7 +132,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/dominator454/DOMINATORXBOT/Dominator/String.py && python3 String.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/KhanSarKs/DOMINATORXBOT/Dominator/String.py && python3 String.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
@@ -164,7 +163,7 @@
 
 DIMINATOR-BOY
 
-Poject [DOMINATORXBOT](https://github.com/DOMINATOR454/DOMINATORXBOT) is free software: you can redistribute it and/or modify
+Poject [DOMINATORXBOT](https://github.com/KhanSarKs/DOMINATORXBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
